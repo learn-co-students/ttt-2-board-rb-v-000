@@ -12,3 +12,6 @@ def get_variable_from_file(file, variable)
   rescue NameError
     raise NameError, "local variable `#{variable}' not defined in #{file}."
   end    
+end
+
+  
