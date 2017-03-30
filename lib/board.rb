@@ -1,1 +1,3 @@
-# Define the variable board below.
+var = 'board'
+puts var
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
