@@ -1,10 +1,1 @@
 board=[ " ", " ", " ", " ", " ", " ", " ", " ", " "]# Define the variable board below.
-#board_0=1
-#board_1=2
-#board_2=3
-#board_3=4
-#board_4=5
-#board_5=6
-#board_6=7
-#board_7=8
-#board_8=9
