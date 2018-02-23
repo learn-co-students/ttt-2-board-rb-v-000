@@ -1,6 +1,2 @@
 # Define the variable board below.
-def board
-end
-
-board = Array.new
-board = " ", " ", " ", " ", " ", " ", " ", " ", " "
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
