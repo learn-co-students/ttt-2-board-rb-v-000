@@ -1,1 +1,5 @@
-# Define the variable board below.
+board = 9
+
+board = Array.new(9)
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
