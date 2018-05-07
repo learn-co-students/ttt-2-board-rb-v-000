@@ -1,4 +1,4 @@
-describe "lib/board.rb" do
+describe "board" do
   it 'defines a local variable `board`' do
     board = get_variable_from_file("./lib/board.rb", "board")
     
