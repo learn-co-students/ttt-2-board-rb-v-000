@@ -11,4 +11,4 @@ def fill_board
   for i in (1..9)
     board << " "
   end
-end 
+end
