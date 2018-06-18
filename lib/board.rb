@@ -2,10 +2,10 @@
 
 board = Array.new
 
-def fill_board
+def fill_board(board)
   for i in (1..9)
     board << " "
   end
 end
 
-fill_board
+fill_board(board)
