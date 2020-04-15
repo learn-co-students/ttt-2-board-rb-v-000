@@ -1,2 +1,2 @@
 board=["./lib/board.rb", "board"]
-board=[" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board=Array.new(9){" "}
