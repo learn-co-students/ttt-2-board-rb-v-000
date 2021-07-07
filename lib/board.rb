@@ -1,1 +1,4 @@
-# Define the variable board below.
+# Tic Tac Toe Board
+
+board = [" "," "," "," "," "," "," "," "," "]
+
